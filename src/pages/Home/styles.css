@@ -53,6 +53,7 @@
   overflow: hidden;
 
   margin-top: 40px;
+  cursor: pointer;
 }
 
 #page-home .content main a span {
