@@ -1,16 +1,9 @@
 import React from "react";
-import logo from "./logo.svg";
+import Home from "./pages/Home";
 import "./App.css";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>hello world</h1>
-      </header>
-    </div>
-  );
-}
+const App: React.FC = () => {
+  return <Home />;
+};
 
 export default App;
