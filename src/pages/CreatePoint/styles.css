@@ -28,6 +28,7 @@
 }
 
 #page-create-point form {
+  box-shadow: 0 0 80px rgba(0, 0, 0, 0.3);
   margin: 80px auto;
   padding: 64px;
   max-width: 730px;
@@ -186,6 +187,7 @@
   text-align: center;
 
   cursor: pointer;
+  transition: 0.5s;
 }
 
 .items-grid li span {
