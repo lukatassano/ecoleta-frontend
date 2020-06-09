@@ -11,7 +11,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-red">
 </p>
 
-#### Projeto realizado na Next Level Week #1
+## Projeto realizado na Next Level Week #1
 
 ### Tecnologias usadas
 
@@ -44,3 +44,5 @@ $ npm start
   <img src="./images/HomeWeb.png" width="95%" />
   <img src="./images/Cadastro.png" width="95%" />
 </p>
+
+## Veja também a aplicação <a href="https://github.com/lukatassano/ecoleta-backend">Backend</a> e <a href="https://github.com/lukatassano/ecoleta-mobile"> Mobile </a>
